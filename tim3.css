@@ -1,0 +1,79 @@
+/*
+ * - MAIN
+ * - CARDS
+ * - BUTTONS
+ * - MEDIA
+ * - TEXT
+ * - STATS
+*/
+
+/* ---------- TAG: color: var ----------*/
+:root {
+    /*- Very dark cyan (primary)*/
+    --Dark-cyan: hsl(185, 75%, 39%);
+    /*- Dark desaturated blue (primary)*/
+    --Very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    /*- Dark grayish blue (primary)*/
+    --Dark-grayish-blue: hsl(227, 10%, 46%);
+    /*- Dark gray (neutral)*/
+    --Dark-gray: hsl(0, 0%, 59%);
+  }
+  
+
+  /*---- MAIN ----*/
+
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+
+  }
+
+  h2 {
+
+  }
+
+  p {
+
+  }
+
+  /*---- MEDIA ----*/
+
+  img {
+
+  }
+
+/*---------- MOBILE ----------*/
+
+
+/*---- CARDS ----*/
+
+  .container {
+
+  }
+
+  .avatar {
+
+  }
+
+/*---- TEXT ----*/
+
+  .text {
+
+  }
+
+  .border {
+
+  }
+
+  /*---- STATS ----*/
+
+  .stats {
+
+  }
+
+  
+/*---------- DESKTOP ----------*/
